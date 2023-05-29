@@ -1,5 +1,27 @@
 # sqlalchemy-challenge
 
+- - - 
+
+## Summary
+
+This app and Jupyter Notebook file both follow the same initial steps:
+1. Read data from a SQLite database.
+
+2. Map the database and classes.
+
+3. Start a SQLAlchemy session to interact and run queries in the database from Python.
+
+### app
+The app takes this data and from a hosted Flask server, provides it in JSON format.
+
+### climate_JN_analysis
+The Jupyter Notebook file shows an analysis for the following:
+1. Precipitation
+2. Most active stations
+3. The temperature curve for the most active station over the course of a year
+
+- - -
+
 ## Instructions
 > Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
